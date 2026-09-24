@@ -50,7 +50,13 @@ const photos = [
     "her-photo1.jpg",
     "her-photo2.jpg",
     "her-photo3.jpg",
-    "her-photo4.jpg"
+    "her-photo4.jpg",
+    "her-photo5.jpg",
+    "her-photo6.jpg",
+    "her-photo7.jpg",
+    "her-photo8.jpg",
+    "her-photo9.jpg",
+    "her-photo10.jpg"
 ];
 
 let currentPhotoIndex = 0;
